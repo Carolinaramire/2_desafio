@@ -1,0 +1,36 @@
+body {color: rgba(0, 0, 0, 0.829);}
+/* style.css */
+.header {
+    height: 10em;
+    padding: 3em;
+    font-size: 1em;
+    background-image:url('../imgs/steve-johnson-JLfem8ViKVA-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: right;
+    }
+    .header h1 {margin: 0px; font-weight: 400;}
+    body {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; }
+.products {
+    width: 100%;
+    margin: 5%;
+    }
+    .products td {
+    width: 35em;
+    padding: 1em;
+    text-align: justify;
+    }
+    .products img {
+    width: 60%;
+    border: solid 5px #dddddd77;
+    }
+.products h4 {color:rgb(185, 41, 41)}
+    .footer {
+        height: 3em;
+        line-height: 3em;
+        background-color: rgb(185, 41, 41);
+        color: white;
+        text-align: center;
+        font-weight: 900;
+        }
